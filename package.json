@@ -1,7 +1,7 @@
 {
   "name": "formula-one",
   "version": "1.0.0",
-  "description": "",
+  "description": "API de Formula 1 desenvolvida no bootcamp da DIO com Node.js, TypeScript e Fastify.",
   "main": "index.js",
   "scripts": {
     "dist": "tsup src",
