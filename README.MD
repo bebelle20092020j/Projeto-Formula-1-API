@@ -132,11 +132,3 @@ src/
 ## Aprendizados
 
 Neste projeto foram praticados conceitos de criação de APIs com Fastify, configuração de servidor HTTP, tipagem com TypeScript, criação de rotas, retorno de status HTTP e organização inicial de uma aplicação backend.
-
-## Melhorias futuras
-
-- Separar os dados em arquivos próprios.
-- Criar controllers e services.
-- Ajustar IDs duplicados na lista de pilotos.
-- Adicionar mais informações sobre equipes e pilotos.
-- Criar testes automatizados para as rotas.
