@@ -132,3 +132,9 @@ src/
 ## Aprendizados
 
 Neste projeto foram praticados conceitos de criação de APIs com Fastify, configuração de servidor HTTP, tipagem com TypeScript, criação de rotas, retorno de status HTTP e organização inicial de uma aplicação backend.
+
+## Feito por
+
+<a href="https://github.com/bebelle20092020j" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Isabelle%20Macedo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Isabelle Macedo">
+</a>
